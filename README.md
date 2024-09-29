@@ -1,2 +1,1 @@
-[Uploading SIMPLE WEATHER APP.docx…]()
-index.html
+[SIMPLE WEATHER APP.docx…]()
